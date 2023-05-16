@@ -1,5 +1,5 @@
 # Reinforcement learning
-Abstract – Reinforcement Learning is somewhat similar to Machine
+Reinforcement Learning is somewhat similar to Machine
 Learning but different from the supervised learning where the
 model is trained from the labeled dataset. Reinforcement
 Learning includes Agent, Action and Environment. Here,
